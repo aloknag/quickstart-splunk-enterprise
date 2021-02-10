@@ -361,13 +361,13 @@ Mappings:
     sa-east-1:
       SPLUNKENTHVM: ami-0dacd4005280936e5
     us-east-1:
-      SPLUNKENTHVM: ami-0484972f36720ea7f
+      SPLUNKENTHVM: ami-007a795010b4127e0
     us-east-2:
-      SPLUNKENTHVM: ami-04b6874c649721f0a
+      SPLUNKENTHVM: ami-05473a7c6bb67d08d
     us-west-1:
-      SPLUNKENTHVM: ami-0377011a3f771e353
+      SPLUNKENTHVM: ami-05efe3c52a42bf862
     us-west-2:
-      SPLUNKENTHVM: ami-0c3e33232b6c07537
+      SPLUNKENTHVM: ami-0f7a62ef867109fe1
   SplunkConfig:
     dedicated-instance-type:
       clusterMaster: c5.xlarge
